@@ -1,2 +1,2 @@
 # datasciencecoursera
-Segundo repositorio necesartio para incluir los ejercicios solicitados
+Segundo repositorio necesario para incluir los ejercicios solicitados
